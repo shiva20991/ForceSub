@@ -1,6 +1,8 @@
 # Force Subscribe Bot
 Forces a user to join your group/channel so as to be able to message in a group.
-
+<a href="https://heroku.com/deploy?template=https://github.com/shiva20991/ForceSub">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 # Features
 - Checks for all newly joined members with a customisable welcome message.
 - Checks for users who are already in the group but has not joined the channel.
